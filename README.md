@@ -48,7 +48,7 @@ Total=3924999
 Longest=179307   
 Shortest=87  
 N50=55038  
-И для контигов:
+И для скаффалдов:
 Total=3875902  
 Longest=3831852  
 Shortest=102  
