@@ -42,12 +42,12 @@
 >platanus scaffold -o Poil -t 8 -c Poil_contig.fa -IP1 paired*.trimmed -OP2 MP*.trimmed 2> scaffold.log
 
 После этого нужно выгрузить имеющиеся файлы и пропустить их через код src/main.py: 
-![image](https://user-images.githubusercontent.com/93263163/139091310-1646a97f-9ba3-4fda-a029-215888c7d3c0.png)
+![image](https://user-images.githubusercontent.com/93263163/139165820-50b2f102-db99-471e-bb90-b15ef3445d12.png)
 Имеем следующие параметры для контигов:  
 Total=3924999   
 Longest=179307   
 Shortest=87  
-N50=47611  
+N50=55038  
 И для контигов:
 Total=3875902  
 Longest=3831852  
