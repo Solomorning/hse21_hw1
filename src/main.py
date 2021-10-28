@@ -14,6 +14,7 @@ def ArrayRoller(f):
                 max = x
                 z = i
     print('Total=',summ,'\nLongest=',max,'\nShortest=',min, z)
+    Array.sort(reverse=True)
     i = 0
     c50 = n50 = Array[0]
     while c50 < summ/2:
